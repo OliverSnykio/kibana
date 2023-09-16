@@ -854,7 +854,7 @@
     "constate": "^3.3.2",
     "copy-to-clipboard": "^3.0.8",
     "core-js": "^3.31.0",
-    "cronstrue": "^1.51.0",
+    "cronstrue": "^1.125.0",
     "css-box-model": "^1.2.1",
     "css.escape": "^1.5.1",
     "cuid": "^2.1.8",
