@@ -22432,10 +22432,15 @@ moment@>=1.6.0, moment@>=2.14.0, moment@^2.10.6, moment@^2.29.4:
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
   integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
 
-monaco-editor@*, monaco-editor@^0.24.0:
+monaco-editor@*:
   version "0.24.0"
   resolved "https://registry.yarnpkg.com/monaco-editor/-/monaco-editor-0.24.0.tgz#990b55096bcc95d08d8d28e55264c6eb17707269"
   integrity sha512-o1f0Lz6ABFNTtnEqqqvlY9qzNx24rQZx1RgYNQ8SkWkE+Ka63keHH/RqxQ4QhN4fs/UYOnvAtEUZsPrzccH++A==
+
+monaco-editor@^0.41.0:
+  version "0.41.0"
+  resolved "https://registry.yarnpkg.com/monaco-editor/-/monaco-editor-0.41.0.tgz#2ba31e5af7e3ae93ac5d7467ec2772ef9b3d967f"
+  integrity sha512-1o4olnZJsiLmv5pwLEAmzHTE/5geLKQ07BrGxlF4Ri/AXAc2yyDGZwHjiTqD8D/ROKUZmwMA28A+yEowLNOEcA==
 
 monaco-yaml@3.2.1:
   version "3.2.1"
